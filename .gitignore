@@ -1,0 +1,13 @@
+data/
+sites/demo/node_modules
+sites/demo/public/hot
+sites/demo/public/storage
+sites/demo/storage/*.key
+sites/demo/vendor
+#sites/demo/.env
+sites/demo/.env.backup
+sites/demo/.phpunit.result.cache
+sites/demo/Homestead.json
+sites/demo/Homestead.yaml
+sites/demo/npm-debug.log
+sites/demo/yarn-error.log
